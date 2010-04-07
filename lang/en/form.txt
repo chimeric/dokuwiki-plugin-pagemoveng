@@ -1,0 +1,4 @@
+====== Plugin Pagemove ======
+Please read the information below carefully. Pages which are currently locked 
+will not be moved (you can move them later or force them to be moved). Leave
+this window open until the process is finished!

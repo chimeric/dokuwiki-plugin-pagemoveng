@@ -1,0 +1,2 @@
+====== Plugin Pagemove ======
+Please select if you want to move the current page or the whole namespace.

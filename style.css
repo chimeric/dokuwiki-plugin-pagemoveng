@@ -1,0 +1,41 @@
+/**
+ * CSS for DokuWiki Plugin pagemoveng
+ *
+ * @author Michael Klier <chi@chimeric.de>
+ */
+
+div.dokuwiki div#plugin__pagemoveng_wrapper {
+  width: 100%;
+  position: absolute;
+  top: 0px;
+  visibility: hidden;
+}
+div.dokuwiki div#plugin__pagemoveng_wrapper div#plugin__pagemoveng_popup {
+  visibility: hidden;
+  background: __background__;
+  border: 1px solid __border__;
+  padding: 0.8125em;
+  width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+div.dokuwiki div#plugin__pagemoveng_popup label {
+  display: block;
+}
+
+div.dokuwiki div#plugin__pagemoveng_popup fieldset {
+  text-align: left;
+}
+
+div.dokuwiki div#plugin__pagemoveng_popup .hidden {
+  display: none;
+}
+
+div.dokuwiki div#plugin__pagemoveng_progress {
+  margin-top: 1em;
+}
+
+div.dokuwiki div#plugin__pagemoveng_progressbar {
+  margin-bottom: 1em;
+}

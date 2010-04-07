@@ -1,0 +1,7 @@
+base   pagemoveng
+author Michael Klier
+email  chi@chimeric.de
+date   ????-??-??
+name   pagemoveng plugin
+desc   Allows to move pages/namesapces
+url    http://dokuwiki.org/plugin:pagemoveng
